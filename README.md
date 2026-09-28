@@ -4,6 +4,7 @@
 
 - 🩻 **AI Engineering Intern @ XeleronAI Ltd (London, remote)** — building an *AI-Powered Medical Imaging Analysis & Automated Radiology Reporting Platform*
 - 🏙️ Built **Urban Alerts**, a civic incident reporting platform with a CLIP-based photo similarity microservice, shipped with CI/CD to production
+- 🏆 **1st place out of 50 teams @ Solihackathon (Tanger)** — built **Qatra**, a web app tackling regional water scarcity (Laravel, AdminLTE, Figma), in a team of 4
 - 🧠 Interests: Deep Learning (CNNs, Transformers, RL), medical imaging, RAG & multi-agent systems
 - 🌍 French · English · Arabic
 
