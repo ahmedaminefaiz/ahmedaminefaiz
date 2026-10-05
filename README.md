@@ -13,12 +13,13 @@
 ## 🚀 Featured projects
 
 ### 🩻 Medical Imaging Analysis & Automated Radiology Reporting
-> Internship project @ XeleronAI — upload DICOM studies, run AI detection, let the clinician validate, generate structured reports.
+> Internship project @ XeleronAI — upload DICOM studies, run AI detection & segmentation (MONAI), let the clinician validate, generate structured reports.
 
 | Repo | Stack | What it does |
 |---|---|---|
 | [**medical-imaging-backend**](https://github.com/ahmedaminefaiz/medical-imaging-backend) | Java 21 · Spring Boot · PostgreSQL · MinIO · dcm4che | JWT auth & roles, DICOM/PNG upload, metadata extraction, audit log, async AI detection orchestration |
 | [**medical-imaging-frontend**](https://github.com/ahmedaminefaiz/medical-imaging-frontend) | Angular 21 · TypeScript · Tailwind | Exam list & search, study viewer (zoom/pan), DICOM folder upload, detection overlay |
+| [**medical-imaging-ai-service**](https://github.com/ahmedaminefaiz/medical-imaging-ai-service) | Python · FastAPI · PyTorch · MONAI · Docker | AI inference microservice: lung nodule detection (CT thorax) & spleen segmentation (CT abdomen) on raw DICOM series |
 
 *Principle: **the AI proposes, the clinician decides** — no automatic validation.*
 
